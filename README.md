@@ -1,6 +1,8 @@
 
 ![dsada](https://github.com/daha40/App-Auth/assets/64675525/9c63f10c-15e4-4bfa-996b-9b0fe73284e2)
 
+I have developed a specialized application for login registration, account creation, and data integration with the backend using APPWRITE. I utilized various libraries and tools such as React Native Config, React Native Navigation, and APPWRITE's authentication. I hope you find it interesting and would appreciate your feedback on the GitHub repository.
+
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
